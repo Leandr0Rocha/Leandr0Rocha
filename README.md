@@ -1,54 +1,27 @@
 <img width="1584" height="396" alt="banner github" src="https://github.com/user-attachments/assets/1c0ed6f3-6bdb-43cb-bd9e-a54f33ca281d" />
 
+# 💫 About Me:
+👋 Hi there! I'm an aspiring developer currently pursuing a Bachelor's degree in Information Technology at UNIVESP. I have a strong interest in web development, focusing on React and Node.js for building projects. My goal is to transform ideas into practical solutions through web software development, and I'm continuously looking to enhance my skills in this field.
 
-# About me
 
-👋 Hi there! I'm an aspiring developer currently pursuing a Bachelor's degree in Information Technology at UNIVESP. I have a strong interest in **web development**, focusing on React and Node.js for building projects. 
-My goal is to transform ideas into practical solutions through web software development, and I'm continuously looking to enhance my skills in this field.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leandro-rocha-aa1770276/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:leandror_silva@outlook.com) 
 
-## Technology stack
 
-  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/30553592-0844-4011-aecb-c050c83d9c40" /> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/dc283a51-5cee-4cd3-b551-65117ed2e31e" /> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/e2e43e0e-b27a-461e-95a7-5f31662ca3f0" /> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/5c359657-98ca-47a5-9887-a14c393d8130" /> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/af81694d-bb09-45fd-9ce3-fe52dd49949e" /> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/4fa58468-6e72-4d33-a26e-40b373b3850a" />
-  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/16eee934-6f06-4df2-b7fa-cf651a07666a" /> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/e9f72b6a-0d8f-441d-b4d1-fdee77f77779" /> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/709078a7-f7c7-417c-b4bf-818d425a5a00" /> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/7c92856b-25c9-4b90-a600-f49518d34587" /> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/4fd1b606-0a15-4144-8e17-f1b2a139f125" /> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/60bc19aa-3955-4f9e-9da6-a961f562218a" /> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/bf0d8bbe-83c0-4683-b837-7a1265af0e31" /> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/647a73b6-e713-483b-b564-36a6d6c35cf3" /> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/3fccd69f-2e53-4845-8503-d3d29bd613e4" />
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
-## Academic Background
 
-* **Bachelor's Degree in Information Technology** (in progress)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Leandr0Rocha&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Leandr0Rocha&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Leandr0Rocha&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-    Universidade Virtual do Estado de São Paulo (UNIVESP)
 
-### Relevant Courses & Certifications
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Leandr0Rocha&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-* Cisco Networking Essentials (Cisco)
-* Google IT Support (Coursera)
-* Web Development Fundamentals (Softex)
+---
+[![](https://visitcount.itsvg.in/api?id=Leandr0Rocha&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# Projects
-
- * **Lumina AI:** Lumina AI is a website for a learning platform that provides artificial intelligence courses and solutions for students, professionals, and businesses. The project is built with the Flask framework, it uses SQLite as its database, and adheres to RESTful API standards for data communication and manipulation.
-  
-  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/dc283a51-5cee-4cd3-b551-65117ed2e31e" /> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/e2e43e0e-b27a-461e-95a7-5f31662ca3f0" /> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/16eee934-6f06-4df2-b7fa-cf651a07666a" /> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/e9f72b6a-0d8f-441d-b4d1-fdee77f77779" /> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/709078a7-f7c7-417c-b4bf-818d425a5a00" /> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/60bc19aa-3955-4f9e-9da6-a961f562218a" />
-
-  ##
-  
-  * **Investidor Master:** Lead capture landing page for an online event. A complete solution for attracting and qualifying contacts, enabling efficient organization and tracking. Built with Node.js and React, using SQLite as its database, and CSS with Tailwind for styling.
-    
- <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/30553592-0844-4011-aecb-c050c83d9c40" /> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/e2e43e0e-b27a-461e-95a7-5f31662ca3f0" /> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/4fa58468-6e72-4d33-a26e-40b373b3850a" /> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/e9f72b6a-0d8f-441d-b4d1-fdee77f77779" /> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/7c92856b-25c9-4b90-a600-f49518d34587" /> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/4fd1b606-0a15-4144-8e17-f1b2a139f125" /> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/bf0d8bbe-83c0-4683-b837-7a1265af0e31" />
-
- ##
-
- * **Roda Literária(Reading Circle):** A web project that offers an intuitive platform for exploring and discovering world literature classics. With a simple interface and a comprehensive database, users can perform personalized searches and quickly find works of interest.
-
-   <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/16eee934-6f06-4df2-b7fa-cf651a07666a" /> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/e9f72b6a-0d8f-441d-b4d1-fdee77f77779" /> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/709078a7-f7c7-417c-b4bf-818d425a5a00" />
-
-##
-
-* **Conversor de moedas(Currency converter):** This is a simple graphical currency converter application, developed in Python. It enables conversion between various international currencies and displays the rate used, leveraging the Free Currency API for data. The project uses CustomTkinter for its interface.
-
-  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/dc283a51-5cee-4cd3-b551-65117ed2e31e" />
-
-## Contact
-
-Feel free to connect, contribute, or just chat\! 
-
-[<img src="https://github.com/user-attachments/assets/354dc054-4ba7-40f8-b798-c94641896b0a" alt="LinkedIn Profile" width="30" height="30">](https://www.linkedin.com/in/leandro-rocha-aa1770276/)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
